@@ -1,16 +1,183 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sk Rubel</h1>
+<h3 align="center">💻 Full Stack Developer | 🔐 Cyber Security Specialist | 🚀 Freelancer</h3>
 
-<!--
-**skrubel7585-stack/skrubel7585-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+%7C+PHP+%7C+Python;Cyber+Security+%26+VAPT;SEO+Expert;Available+for+Freelance&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skrubel7585&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/skrubel7585?label=Follow&style=social" alt="followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+🚀 Passionate **Full Stack Developer** building **modern, scalable & secure applications**
+
+- 🎓 Final Year B.Tech (CSE) - Specializing in Cyber Security
+- 🔐 Cyber Forensics & Information Security Enthusiast
+- 💼 Freelance Developer (Web + App + SEO + Security)
+- ⚡ Focused on performance, security & clean code architecture
+- 🌱 Currently exploring **AI/ML** and **Blockchain Security**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔐 Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### ⚡ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skrubel7585&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="github-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrubel7585&layout=compact&theme=tokyonight&langs_count=8" alt="top-languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skrubel7585&theme=tokyonight" alt="streak-stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skrubel7585&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skrubel7585&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [SaaS Booking System](https://github.com/skrubel7585/saas-booking)
+> Full-stack booking platform with real-time availability, payment integration, and admin dashboard
+> *Tech: MERN Stack, Stripe, Socket.io*
+
+### 🔹 [AI Automation Tool](https://github.com/skrubel7585/ai-automation)
+> Intelligent workflow automation tool with NLP capabilities
+> *Tech: Python, TensorFlow, Flask*
+
+### 🔹 [Cyber Security Audit Suite](https://github.com/skrubel7585/security-audit)
+> Comprehensive vulnerability assessment and penetration testing toolkit
+> *Tech: Python, Bash, Nmap, Metasploit*
+
+### 🔹 [E-Commerce Platform](https://github.com/skrubel7585/ecommerce-platform)
+> Scalable e-commerce solution with advanced features
+> *Tech: PHP, Laravel, MySQL, Redis*
+
+---
+
+## 💼 Freelance Services
+
+💡 **I help businesses transform their digital presence:**
+
+| Service | Description |
+|---------|-------------|
+| 🌐 **Web Development** | Custom websites, e-commerce, CMS platforms |
+| 📱 **App Development** | Cross-platform mobile applications |
+| ⚡ **API Development** | RESTful APIs, microservices architecture |
+| 🔐 **Security Testing** | VAPT, security audits, penetration testing |
+| 📈 **SEO Optimization** | On-page, off-page, technical SEO |
+| 🚀 **Performance Optimization** | Speed optimization, scalability solutions |
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:skrubel7585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sk-rubel-9bba8625a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/skrubel7585">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://twitter.com/skrubel7585">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://skrubel7585.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+⚡ **"I don't just write code, I build solutions that are secure, scalable, and search-engine friendly!"** 🚀
+
+---
+
+## 📌 Recent Activity
+
+<!-- RECENT_ACTIVITY:start -->
+- 💬 Answered a question about **MERN Stack Security Best Practices**
+- 🔒 Published a new **VAPT Methodology Guide**
+- 🚀 Launched **SaaS Booking System v2.0**
+- 📝 Wrote an article on **Common Web Vulnerabilities**
+<!-- RECENT_ACTIVITY:end -->
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev-quotes" />
+</p>
+
+<p align="center">
+  <b>⭐ If you like my work, consider starring my repositories!</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skrubel7585/skrubel7585/output/snake.svg" alt="snake animation" />
+</p>
