@@ -1,26 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sk Rubel</h1>
-<h3 align="center">💻 Full Stack Developer | 🔐 Cyber Security Specialist | 🚀 Freelancer</h3>
+<h3 align="center">💻 Full Stack Developer | 🔐 Cyber Security Specialist | 🚀 Freelancer | 📊 DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+%7C+PHP+%7C+Python;Cyber+Security+%26+VAPT;SEO+Expert;Available+for+Freelance&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+%7C+PHP+%7C+Python;Cyber+Security+%26+VAPT;DSA+%7C+Problem+Solving;SEO+Expert;Available+for+Freelance&center=true&width=500&height=45">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skrubel7585&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/skrubel7585?label=Follow&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen" alt="dsa" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🚀 Passionate **Full Stack Developer** building **modern, scalable & secure applications**
+🚀 Passionate **Full Stack Developer** building **modern, scalable & secure applications**  
+📊 **DSA Enthusiast** | 500+ Problems Solved | 4⭐ on CodeChef
 
 - 🎓 Final Year B.Tech (CSE) - Specializing in Cyber Security
 - 🔐 Cyber Forensics & Information Security Enthusiast
 - 💼 Freelance Developer (Web + App + SEO + Security)
 - ⚡ Focused on performance, security & clean code architecture
-- 🌱 Currently exploring **AI/ML** and **Blockchain Security**
+- 📈 500+ DSA problems solved across platforms
+- 🏆 CodeChef (4⭐) | LeetCode (150+ problems) | GeeksforGeeks (200+ problems)
+- 🌱 Currently exploring **Advanced Algorithms**, **System Design**, and **Blockchain Security**
 
 ---
 
@@ -51,6 +55,14 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
+### 📊 DSA & Algorithms
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
 ### ⚡ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -60,14 +72,30 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 DSA Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skrubel7585&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="github-stats" />
+  <img src="https://leetcard.jacoblin.cool/skrubel7585?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrubel7585&layout=compact&theme=tokyonight&langs_count=8" alt="top-languages" />
+  <img src="https://codechef-readme-stats.vercel.app/api/stats/skrubel7585?theme=dark" alt="CodeChef Stats" />
+</p>
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=skrubel7585" alt="GeeksforGeeks Stats" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skrubel7585&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrubel7585&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="top-languages" />
 </p>
 
 ---
@@ -75,7 +103,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skrubel7585&theme=tokyonight" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skrubel7585&theme=tokyonight&hide_border=true" alt="streak-stats" />
 </p>
 
 ---
@@ -83,7 +111,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skrubel7585&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skrubel7585&theme=github-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
 </p>
 
 ---
@@ -91,7 +119,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skrubel7585&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skrubel7585&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies" />
 </p>
 
 ---
@@ -110,9 +138,32 @@
 > Comprehensive vulnerability assessment and penetration testing toolkit
 > *Tech: Python, Bash, Nmap, Metasploit*
 
+### 🔹 [DSA Problem Solutions](https://github.com/skrubel7585/dsa-solutions)
+> Collection of 500+ DSA problem solutions with optimized approaches
+> *Tech: C++, Java, Python | Platforms: LeetCode, CodeChef, GFG*
+
 ### 🔹 [E-Commerce Platform](https://github.com/skrubel7585/ecommerce-platform)
 > Scalable e-commerce solution with advanced features
 > *Tech: PHP, Laravel, MySQL, Redis*
+
+---
+
+## 📊 Coding Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/skrubel7585/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/skrubel7585">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/skrubel7585">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://github.com/skrubel7585">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -128,6 +179,7 @@
 | 🔐 **Security Testing** | VAPT, security audits, penetration testing |
 | 📈 **SEO Optimization** | On-page, off-page, technical SEO |
 | 🚀 **Performance Optimization** | Speed optimization, scalability solutions |
+| 📊 **DSA Training** | Problem solving, interview preparation |
 
 ---
 
@@ -146,8 +198,11 @@
   <a href="https://twitter.com/skrubel7585">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://skrubel7585.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://leetcode.com/skrubel7585/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://www.codechef.com/users/skrubel7585">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
 
@@ -162,10 +217,11 @@
 ## 📌 Recent Activity
 
 <!-- RECENT_ACTIVITY:start -->
-- 💬 Answered a question about **MERN Stack Security Best Practices**
-- 🔒 Published a new **VAPT Methodology Guide**
-- 🚀 Launched **SaaS Booking System v2.0**
-- 📝 Wrote an article on **Common Web Vulnerabilities**
+- 💬 Solved 50+ DSA problems this week
+- 🔒 Completed **Advanced Algorithms Course**
+- 🚀 Published **MERN Stack Security Best Practices** guide
+- 📝 Solved **LeetCode Weekly Contest** with 3/4 problems
+- ⭐ Achieved **4⭐ on CodeChef**
 <!-- RECENT_ACTIVITY:end -->
 
 ---
