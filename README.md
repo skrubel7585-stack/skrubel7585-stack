@@ -55,13 +55,54 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### 📊 DSA & Algorithms
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+## 📊 DSA & Algorithms
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 📈 Coding Platforms Progress
+
+<p align="center">
+  <a href="https://leetcode.com/skrubel7585/">
+    <img src="https://img.shields.io/badge/LeetCode-150_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/skrubel7585">
+    <img src="https://img.shields.io/badge/CodeChef-4⭐_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/skrubel7585">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-200_Problems_Solved-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/skrubel7585?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+### 🐍 Python DSA Implementations
+
+```python
+# Data Structures implemented in Python
+class DSAWithPython:
+    def __init__(self):
+        self.problems_solved = 200
+        self.topics = ['Arrays', 'Linked Lists', 'Trees', 'Graphs', 'DP', 'Backtracking']
+    
+    def algorithms_covered(self):
+        return {
+            'Sorting': ['Quick Sort', 'Merge Sort', 'Heap Sort'],
+            'Searching': ['Binary Search', 'DFS', 'BFS'],
+            'DP': ['Knapsack', 'LCS', 'Matrix Chain'],
+            'Graph': ['Dijkstra', 'Floyd Warshall', 'Kruskal']
+        }
+    
+    def competitive_coding(self):
+        print("🏆 CodeChef 4⭐ | LeetCode 150+ | GFG 200+")
 
 ### ⚡ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
