@@ -79,7 +79,10 @@
 </p>
 
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/stats/skrubel7585?theme=dark" alt="CodeChef Stats" />
+  <img src="https://img.shields.io/badge/Total_Problems_Solved-500+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-150+-brightgreen?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-4⭐-orange?style=for-the-badge&logo=codechef" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-200+-yellowgreen?style=for-the-badge&logo=geeksforgeeks" />
 </p>
 
 <p align="center">
