@@ -98,9 +98,7 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-200+-yellowgreen?style=for-the-badge&logo=geeksforgeeks" />
 </p>
 
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?username=skrubel7585" alt="GeeksforGeeks Stats" />
-</p>
+
 
 ---
 
